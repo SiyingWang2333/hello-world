@@ -1,2 +1,3 @@
 # hello-world
-just b repository
+Just a repository
+Try to use github
